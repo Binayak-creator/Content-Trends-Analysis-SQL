@@ -110,22 +110,22 @@ Content-Trends-Analysis-SQL
 ![Movies vs TV Shows](screenshots/movies_vs_tv_shows.png)
 
 ### Top Content-Producing Countries
-![Top Countries](screenshots/Top Content-Producing Countries.png)
+![Top Countries](screenshots/top_content_producing_countries.png)
 
 ### Release Trend by Year
-![Release Trend](screenshots/Release Trend by Year.png)
+![Release Trend](screenshots/release_trend_by_year.png)
 
 ### Country Ranking using Window Functions
-![Country Ranking](screenshots/Country Ranking using Window Functions.png)
+![Country Ranking](screenshots/country_ranking_window_functions.png)
 
 ### Running Total of Content Releases
-![Running Total](screenshots/Running Total of Content Releases.png)
+![Running Total](screenshots/running_total_content_releases.png)
 
 ### Executive Summary View
-![Executive Summary](screenshots/Executive Summary View.png)
+![Executive Summary](screenshots/executive_summary_view.png)
 
 ### Release Year Ranking (CTE + RANK())
-![Release Year Ranking](screenshots/Release Year Ranking.png)
+![Release Year Ranking](screenshots/release_year_ranking.png)
 
 ---
 

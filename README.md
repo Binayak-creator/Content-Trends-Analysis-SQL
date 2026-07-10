@@ -107,7 +107,7 @@ Content-Trends-Analysis-SQL
 ## 📸 Sample Output
 
 ### Movies vs TV Shows
-![Movies vs TV Shows](screenshots/Movies vs TV Shows.png)
+![Movies vs TV Shows](screenshots/movies_vs_tv_shows.png)
 
 ### Top Content-Producing Countries
 ![Top Countries](screenshots/Top Content-Producing Countries.png)

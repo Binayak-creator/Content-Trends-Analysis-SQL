@@ -1,0 +1,29 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
+
+# Log Files
+*.log
+
+# Temporary Files
+*.tmp
+*.temp
+
+# MySQL Workbench Backup Files
+*.mwb.bak
+
+# Environment Variables
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Database Files
+*.db
+*.sqlite
+*.bak
